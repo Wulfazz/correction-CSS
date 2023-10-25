@@ -1,0 +1,93 @@
+#red{
+    height: 50px;
+    background-color: red;
+    margin-bottom: 10px;
+}
+
+
+
+#yellow{
+    height: 150px;
+    background-color: yellow;
+    margin-bottom: 10px;
+}
+
+.Dollhouse{
+    height: 500px;
+    display:flex
+}
+
+.blue{
+    height: 500px;
+background-color: blue;
+width: 100%;
+margin-right: 10px;
+}
+
+.green1{
+    height: 250px;
+    background-color: green;
+    width: 100%;
+    margin-bottom: 10px;}
+
+.Doll1{ 
+    height: 250px;
+    width: 100%;
+}
+
+.Doll2{
+    height: 250px;
+    width: 100%;
+    display: flex;
+}
+
+.brown{
+    height: 250px;
+    background-color: brown;
+    width: 20%;
+    margin-right: 5px;
+}
+
+.Doll3{
+    height: 125px;
+    width: 100%;
+}
+
+.green2{
+    height: 125px;
+    background-color:rgb(0, 69, 3);
+    width: 100%;
+    margin-bottom: 5px;
+}
+
+
+.Doll3{
+    height: 125px;
+    width: 100%;
+}
+
+.green2{ 
+    height: 125px;
+    background-color:rgb(0, 69, 3);
+    width:100%;
+}
+
+.Doll4{ 
+    height: 125px;
+    width: 100%;
+    display: flex; 
+}
+
+
+.white{
+    height: 125px;
+    width: 50%;
+    background-color: white;
+    margin-right: 5px;
+}
+
+.black{
+    height: 125px;
+    width: 50%;
+    background-color: black;
+}
